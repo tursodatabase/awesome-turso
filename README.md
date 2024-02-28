@@ -13,7 +13,9 @@ An curated list of awesome projects, libraries, tools, tutorials, articles, e.t.
   - [Courses](#courses)
   - [Guides & Recipes](#guides-recipes)
   - [Podcasts](#podcasts)
-- [Apps & Websites](#apps-websites)
+- [Projects using Turso](#projects)
+  - [Open Source](#open-source)
+  - [Apps & Websites](#apps-websites)
 
 ## Tools
 
@@ -40,6 +42,7 @@ Tools by the community.
 - [durabletask-libsql-backend](https://github.com/balchua/durabletask-libsql-backend): libsql backend for [durabletask-go](https://github.com/microsoft/durabletask-go).
 - [libsql-stateless](https://github.com/DaBigBlob/libsql-stateless): Thin libSQL stateless HTTP driver for TypeScript and JavaScript for the edge.
 - [libsql-stateless-easy](https://github.com/DaBigBlob/libsql-stateless-easy): A wrapper for [libsql-stateless](https://github.com/DaBigBlob/libsql-stateless) that provides a much better DX.
+- [gpl_api](https://github.com/JSConfCL/gql_api): A Graphql Server built with Cloudflare Workers, Turso, and Drizzle.
 
 <h2 id="templates-starters">Templates & Starters</h2>
 
@@ -54,6 +57,7 @@ Tools by the community.
 - [Atash](https://github.com/atridadl/Atash): A template to build full-stack Remix applications.
 - [multi-tenancy-saas-demo]: Demo of building a multi-tenancy saas app w/ Turso.
 - [Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate): Boilerplate and Starter for Next.js 14+ with App Router and Page Router support.
+- [libSQL StackBlitz demo](https://stackblitz.com/edit/node-zjhahv?file=index.js): libSQL running entirely on the browser using WebContainers.
 
 ## Articles
 
@@ -188,19 +192,29 @@ Tools by the community.
 - [Reduce DB Latency in MINUTES](https://www.youtube.com/watch?v=BxkJa-iuws4) by [JamesPerkins](https://www.youtube.com/@james-perkins)
 - [ChiselStrike Guest Lecture - Turso Demo w/ Doug!](https://www.youtube.com/watch?v=ANuraQJTc7c)
 
-<h2 id="apps=websites">Apps & Websites</h2>
+<h2 id="projects">Projects using Turso</h2>
 
-- [CronAtlas](https://cronatlas.com): A modern cron job scheduler for the serverless era.
-- [Fuel Pulse](https://fuelpulse.troypoulter.com/)
+<h3 id="open-source">Open Source</h3>
+
+- [Cron Atlas](https://cronatlas.com): A modern cron job scheduler for the serverless era.
+- [Fuel Pulse](https://fuelpulse.troypoulter.com/): Effortlessly locate the most economical fuel prices near you.
+- [Flipt](https://github.com/flipt-io/flipt): Enterprise-ready, GitOps enabled, CloudNative feature management solution.
+- [Open Status](https://www.openstatus.dev/): A reliable, easy and fast way to synthetically monitor your APIs and websites.
+- [CutIt](https://cutit.vercel.app/): A free open-source tool to generate short links.
+
+<h3 id="apps-websites">Apps & Websites</h3>
+
+- [Trip To Japan](https://www.triptojapan.com/): Best things to do in Japan.
+- [val town](https://www.val.town/): A social website to write and deploy TypeScript.
 - [Marked](https://marked.cylex.dog/): Marked is a bookmark management service.
 - [ChatGPT clone](https://chat.mustafawael.com/login): A ChatGPT clone.
-- [Flipt](https://github.com/flipt-io/flipt): Enterprise-ready, GitOps enabled, CloudNative feature management solution
-- [libSQL StackBlitz demo](https://stackblitz.com/edit/node-zjhahv?file=index.js): libSQL running entirely on the browser using WebContainers.
 - [Codeshare](https://github.com/fayazara/codeshare): Pastebin for developers, paste code and get a link to share with your peers.
 - [GPTs Hunter](https://www.gptshunter.com/): The first and largest GPTs directory.
 - [U2 Space Baby](https://u2spacebaby.u2.com/): Las Vegas’s unique “The Sphere” (Exosphere) U2 experience.
 - [FeedbackJar](https://github.com/fayazara/feedbackjar): An OSS platform for open source feedback, management, publish roadmaps and changelogs.
-- [OpenStatus](https://www.openstatus.dev/): A reliable, easy and fast way to synthetically monitor your APIs and websites.
 - [StreamCatch](https://streamcatch.live/): A YouTube Premiere, but for livestreams.
-- [CutIt](https://cutit.vercel.app/): A free open-source tool to generate short links.
 - [my-way-track](https://github.com/subzerocloud/my-way-track/tree/turso) - App for privately tracking job applications.
+- [My Links](https://www.my-links.live): An open source version on linktree.
+- [Solana Tracker](https://www.solanatracker.io): A secure Solana Coins tracker.
+- [wanderer.moe](https://wanderer.moe/): A centralized database of various game assets.
+- [CSVAPI](https://www.csvapi.com/): a service that lets you build APIs from your CSV files.
