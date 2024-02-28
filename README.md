@@ -38,7 +38,7 @@ Tools by the community.
 - [libSQL Studio](https://github.com/invisal/libsql-studio): A web client for your libSQL/Turso databases.
 - [Kirimase](https://github.com/nicoalbanese/kirimase): A command-line tool for building full-stack Next.js apps faster.
 - [Geni](https://github.com/emilpriver/geni): A standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
-- [Miflo]: A database schema migration tool that supports SQLite, PostgreSQL, and libSQL.
+- [Miflo](https://github.com/gavsidhu/miflo): A database schema migration tool that supports SQLite, PostgreSQL, and libSQL.
 - [durabletask-libsql-backend](https://github.com/balchua/durabletask-libsql-backend): libsql backend for [durabletask-go](https://github.com/microsoft/durabletask-go).
 - [libsql-stateless](https://github.com/DaBigBlob/libsql-stateless): Thin libSQL stateless HTTP driver for TypeScript and JavaScript for the edge.
 - [libsql-stateless-easy](https://github.com/DaBigBlob/libsql-stateless-easy): A wrapper for [libsql-stateless](https://github.com/DaBigBlob/libsql-stateless) that provides a much better DX.
@@ -55,7 +55,7 @@ Tools by the community.
 - [codoodle](https://github.com/nevthereal/codoodle): A SvelteKit blog with Turso.
 - [nextjs-pagination](https://github.com/ezeparziale/nextjs-pagination): 🐗 Next.js app with pagination.
 - [Atash](https://github.com/atridadl/Atash): A template to build full-stack Remix applications.
-- [multi-tenancy-saas-demo]: Demo of building a multi-tenancy saas app w/ Turso.
+- [multi-tenancy-saas-demo](https://github.com/KyleAMathews/multi-tenancy-saas-demo): Demo of building a multi-tenancy saas app w/ Turso.
 - [Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate): Boilerplate and Starter for Next.js 14+ with App Router and Page Router support.
 - [libSQL StackBlitz demo](https://stackblitz.com/edit/node-zjhahv?file=index.js): libSQL running entirely on the browser using WebContainers.
 
@@ -136,7 +136,6 @@ Tools by the community.
 - [Turso & Shuttle | Building & deploying a REST API with a Turso database](https://www.shuttle.rs/blog/2023/07/28/turso-shuttle-integration-cats-api)
 - [Building a "per-user database" SaaS app with Turso](https://bricolage.io/turso-per-user-db-saas/) by [Kyle Mathews](https://bricolage.io/)
 - [Why we migrated from PlanetScale to Turso.](https://www.openstatus.dev/blog/migration-planetscale-to-turso) by [Thibault Le Ouay Ducasse](https://twitter.com/thibaultleouay) via [OpenStatus](https://www.openstatus.dev/)
-- [What The Heck Is The Edge Anyway?](view-source:https://www.p99conf.io/2023/08/24/what-the-heck-is-the-edge-anyway/)
 - [Setup Turso on a Remix application](https://www.giovannibenussi.com/blog/setup-turso-on-a-remix-application) by [Giovanni Benussi](https://www.giovannibenussi.com/)
 - [Build a Web App with Nuxt 3 and Turso: Project Configuration](https://www.ccsstudios.co.uk/blog/2023-10-05-build-a-web-app-with-nuxt-and-turso-project-configuration) by [CSS Studios](https://www.ccsstudios.co.uk/)
 - [Experimenting On The Edge](https://www.flipt.io/blog/experimenting-on-the-edge) by Yoofi Quansah via [Flipt](https://www.flipt.io/)
