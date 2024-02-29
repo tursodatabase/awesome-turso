@@ -1,6 +1,6 @@
 # Awesome Turso
 
-An curated list of awesome projects, libraries, tools, tutorials, articles, e.t.c related to Turso.
+A curated list of awesome projects, libraries, tools, tutorials, articles, e.t.c related to Turso.
 
 ## Contents
 
