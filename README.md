@@ -145,6 +145,7 @@ Tools by the community.
 - [Building Session Analytics with SvelteKit and Turso DB](https://scottspence.com/posts/building-session-analytics-sveltekit-turso-db) by [Scott Spence](https://scottspence.com/)
 - [Automatic Migrations in Nuxt 3 with Drizzle](https://www.in2deep.xyz/posts/nuxt3-migrations-with-drizzle) by Amar Gill via [in2deep.xyz](https://www.in2deep.xyz/)
 - [Creating an open source Linktree Alternative | Clone](https://blog.techlism.in/creating-an-open-source-linktree-alternative-clone) by [Kundan](https://hashnode.com/@techlism)
+- [libSQL: Diving Into a Database Engineering Epic](https://compileralchemy.substack.com/p/libsql-diving-into-a-database-engineering) by [Abdur-Rahmaan Janhangeer](https://www.compileralchemy.com/)
 
 ## Videos
 
