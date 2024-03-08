@@ -218,4 +218,5 @@ Tools by the community.
 - [My Links](https://www.my-links.live): An open source version on linktree.
 - [Solana Tracker](https://www.solanatracker.io): A secure Solana Coins tracker.
 - [wanderer.moe](https://wanderer.moe/): A centralized database of various game assets.
-- [CSVAPI](https://www.csvapi.com/): a service that lets you build APIs from your CSV files.
+- [CSVAPI](https://www.csvapi.com/): A service that lets you build APIs from your CSV files.
+- [Ethan Thoma](https://www.ethanthoma.com/): A personal website and blog.
