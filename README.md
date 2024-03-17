@@ -44,6 +44,7 @@ Tools by the community.
 - [libsql-stateless-easy](https://github.com/DaBigBlob/libsql-stateless-easy): A wrapper for [libsql-stateless](https://github.com/DaBigBlob/libsql-stateless) that provides a much better DX.
 - [gpl_api](https://github.com/JSConfCL/gql_api): A Graphql Server built with Cloudflare Workers, Turso, and Drizzle.
 - [turso-sdk](https://github.com/Jeliuc-Labs/turso-sdk): A Turso Platform API SDK for Kotlin 
+- [TursoPy](https://github.com/MauriceKuenicke/tursopy): Fully type-hinted Turso Platform API wrapper for Python.
 
 <h2 id="templates-starters">Templates & Starters</h2>
 
