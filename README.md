@@ -45,6 +45,7 @@ Tools by the community.
 - [gpl_api](https://github.com/JSConfCL/gql_api): A Graphql Server built with Cloudflare Workers, Turso, and Drizzle.
 - [turso-sdk](https://github.com/Jeliuc-Labs/turso-sdk): A Turso Platform API SDK for Kotlin 
 - [TursoPy](https://github.com/MauriceKuenicke/tursopy): A fully type-hinted API wrapper for the Turso Platform, implemented in Python.
+- [turso-nim](https://codeberg.org/13thab/turso-nim): A Turso Platform API SDK for Nim 
 
 <h2 id="templates-starters">Templates & Starters</h2>
 
