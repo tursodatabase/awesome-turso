@@ -36,6 +36,7 @@ Tools by the community.
 - [turso-go](https://github.com/mr-destructive/turso-go): Golang Client for Turso platform API -> turso.tech.
 - [turso-http](https://github.com/darkterminal/turso-http): The PHP library for Turso HTTP Database API.
 - [libSQL Studio](https://github.com/invisal/libsql-studio): A web client for your libSQL/Turso databases.
+- [Phorm AI for Turso](https://www.phorm.ai/query?projectId=3c9a471f-4a47-469f-81f6-4ea1ff9ab418): An AI understanding engine for the Turso ecosystem.
 - [Kirimase](https://github.com/nicoalbanese/kirimase): A command-line tool for building full-stack Next.js apps faster.
 - [Geni](https://github.com/emilpriver/geni): A standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [Miflo](https://github.com/gavsidhu/miflo): A database schema migration tool that supports SQLite, PostgreSQL, and libSQL.
