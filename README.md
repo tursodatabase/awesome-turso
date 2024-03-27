@@ -34,6 +34,7 @@ Tools by the community.
 
 - [libsql-client-dotnet](https://github.com/tvandinther/libsql-client-dotnet): A .NET client for libsql.
 - [turso-go](https://github.com/mr-destructive/turso-go): Golang Client for Turso platform API -> turso.tech.
+- [dbpu](https://github.com/conneroisu/dbpu): Full Golang Client for Turso Platform API, including databases.
 - [turso-http](https://github.com/darkterminal/turso-http): The PHP library for Turso HTTP Database API.
 - [libSQL Studio](https://github.com/invisal/libsql-studio): A web client for your libSQL/Turso databases.
 - [Kirimase](https://github.com/nicoalbanese/kirimase): A command-line tool for building full-stack Next.js apps faster.
