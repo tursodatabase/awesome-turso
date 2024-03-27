@@ -46,6 +46,8 @@ Tools by the community.
 - [turso-sdk](https://github.com/Jeliuc-Labs/turso-sdk): A Turso Platform API SDK for Kotlin 
 - [TursoPy](https://github.com/MauriceKuenicke/tursopy): A fully type-hinted API wrapper for the Turso Platform, implemented in Python.
 - [turso-nim](https://codeberg.org/13thab/turso-nim): A Turso Platform API SDK for Nim 
+- [dbpu](https://github.com/conneroisu/dbpu): Full Golang Client for Turso Platform API, including databases.
+
 
 <h2 id="templates-starters">Templates & Starters</h2>
 
