@@ -194,6 +194,7 @@ Tools by the community.
 - [Create your own GraphQL API at the Edge using Turso Database](https://www.youtube.com/watch?v=qh_3v_0PiUM) by [Grafbase](https://www.youtube.com/@grafbase)
 - [Reduce DB Latency in MINUTES](https://www.youtube.com/watch?v=BxkJa-iuws4) by [JamesPerkins](https://www.youtube.com/@james-perkins)
 - [ChiselStrike Guest Lecture - Turso Demo w/ Doug!](https://www.youtube.com/watch?v=ANuraQJTc7c)
+- [Turso with Bun, Elysia & Drizzle ORM - deployed to Fly.io](https://youtu.be/xb0adjRs7wU) by [CodeBrew](https://www.youtube.com/@code_brew)
 
 <h2 id="projects">Projects using Turso</h2>
 
