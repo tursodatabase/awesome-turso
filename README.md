@@ -151,6 +151,7 @@ Tools by the community.
 - [Automatic Migrations in Nuxt 3 with Drizzle](https://www.in2deep.xyz/posts/nuxt3-migrations-with-drizzle) by Amar Gill via [in2deep.xyz](https://www.in2deep.xyz/)
 - [Creating an open source Linktree Alternative | Clone](https://blog.techlism.in/creating-an-open-source-linktree-alternative-clone) by [Kundan](https://hashnode.com/@techlism)
 - [libSQL: Diving Into a Database Engineering Epic](https://compileralchemy.substack.com/p/libsql-diving-into-a-database-engineering) by [Abdur-Rahmaan Janhangeer](https://www.compileralchemy.com/)
+- [Migrating Your MySQL Application from PlanetScale to Turso](https://medium.com/@kerbelp/migrating-your-mysql-application-from-planetscale-to-turso-483ae6175502) by [Pavel Kerbel](https://www.linkedin.com/in/kerbelp/)
 
 ## Videos
 
@@ -225,4 +226,5 @@ Tools by the community.
 - [wanderer.moe](https://wanderer.moe/): A centralized database of various game assets.
 - [CSVAPI](https://www.csvapi.com/): a service that lets you build APIs from your CSV files.
 - [DipSway Crypto Bot](https://www.dipsway.com/): Cloud hosted Crypto Trading Bot that uses model re-training every 24h for each coin.
+- [AI Collection](https://www.thataicollection.com/): A Collection of Awesome Generative AI Applications.
 
