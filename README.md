@@ -227,4 +227,5 @@ Tools by the community.
 - [wanderer.moe](https://wanderer.moe/): A centralized database of various game assets.
 - [CSVAPI](https://www.csvapi.com/): a service that lets you build APIs from your CSV files.
 - [DipSway Crypto Bot](https://www.dipsway.com/): Cloud hosted Crypto Trading Bot that uses model re-training every 24h for each coin.
+- [Condo Manager](https://github.com/yazalulloa/condo-manager): A condo manager web app (Websocket impl in Java).
 - [AI Collection](https://www.thataicollection.com/): A Collection of Awesome Generative AI Applications.
