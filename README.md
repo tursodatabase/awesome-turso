@@ -43,12 +43,11 @@ Tools by the community.
 - [libsql-stateless](https://github.com/DaBigBlob/libsql-stateless): Thin libSQL stateless HTTP driver for TypeScript and JavaScript for the edge.
 - [libsql-stateless-easy](https://github.com/DaBigBlob/libsql-stateless-easy): A wrapper for [libsql-stateless](https://github.com/DaBigBlob/libsql-stateless) that provides a much better DX.
 - [gpl_api](https://github.com/JSConfCL/gql_api): A Graphql Server built with Cloudflare Workers, Turso, and Drizzle.
-- [turso-sdk](https://github.com/Jeliuc-Labs/turso-sdk): A Turso Platform API SDK for Kotlin 
+- [turso-sdk](https://github.com/Jeliuc-Labs/turso-sdk): A Turso Platform API SDK for Kotlin
 - [TursoPy](https://github.com/MauriceKuenicke/tursopy): A fully type-hinted API wrapper for the Turso Platform, implemented in Python.
-- [turso-nim](https://codeberg.org/13thab/turso-nim): A Turso Platform API SDK for Nim 
+- [turso-nim](https://codeberg.org/13thab/turso-nim): A Turso Platform API SDK for Nim
 - [dbpu](https://github.com/conneroisu/dbpu): Full Golang Client for Turso Platform API, including databases.
 - [PostgreSQL to SQLite3 DB Conversion](https://github.com/hirefrank/pg-to-sqlite): A bash script that migrates data from a PostgreSQL database into a SQLite3 database file, that can then be upload to turso.
-
 
 <h2 id="templates-starters">Templates & Starters</h2>
 
@@ -95,7 +94,7 @@ Tools by the community.
 - [Reliable state in Cypress tests using Turso’s libSQL driver](https://blog.turso.tech/reliable-state-in-cypress-tests-using-tursos-libsql-driver-6bdfc010a5f2)
 - [Announcing the Turso Scaler Plan](https://blog.turso.tech/announcing-the-turso-scaler-plan-404e03c6cbf7)
 - [The CTO of Triptojapan.com talks about how he made his site snappy and fast, with Cloudflare Workers, Drizzle and Turso](https://blog.turso.tech/a-trip-to-japan-with-cloudflare-workers-drizzle-and-the-turso-database-d8918a1641e6)
-- [Replicate my *entire* production database? You must be mad!](https://blog.turso.tech/replicate-my-entire-production-database-you-must-be-mad-641d3f1ed9d8)
+- [Replicate my _entire_ production database? You must be mad!](https://blog.turso.tech/replicate-my-entire-production-database-you-must-be-mad-641d3f1ed9d8)
 - [Zig helped us move data to the Edge. Here are our impressions](https://blog.turso.tech/zig-helped-us-move-data-to-the-edge-here-are-our-impressions-67d3a9c45af4)
 - [Turso powers Fermyon Cloud’s NoOps SQL Database](https://blog.turso.tech/turso-powers-fermyon-clouds-noops-sql-database-7606901dc50f)
 - [How to get your database access code deadlocked in Golang](https://blog.turso.tech/how-to-get-your-database-access-code-deadlocked-in-golang-f31ec98c3833)
@@ -208,6 +207,7 @@ Tools by the community.
 - [Flipt](https://github.com/flipt-io/flipt): Enterprise-ready, GitOps enabled, CloudNative feature management solution.
 - [Open Status](https://www.openstatus.dev/): A reliable, easy and fast way to synthetically monitor your APIs and websites.
 - [CutIt](https://cutit.vercel.app/): A free open-source tool to generate short links.
+- [Amazing Endemic Species](https://aes.shenlu.me): An open-source, community-driven SaaS (Species-as-a-Service) application.
 
 <h3 id="apps-websites">Apps & Websites</h3>
 
@@ -226,4 +226,3 @@ Tools by the community.
 - [wanderer.moe](https://wanderer.moe/): A centralized database of various game assets.
 - [CSVAPI](https://www.csvapi.com/): a service that lets you build APIs from your CSV files.
 - [DipSway Crypto Bot](https://www.dipsway.com/): Cloud hosted Crypto Trading Bot that uses model re-training every 24h for each coin.
-
