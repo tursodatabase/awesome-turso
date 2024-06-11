@@ -152,6 +152,7 @@ Tools by the community.
 - [Creating an open source Linktree Alternative | Clone](https://blog.techlism.in/creating-an-open-source-linktree-alternative-clone) by [Kundan](https://hashnode.com/@techlism)
 - [libSQL: Diving Into a Database Engineering Epic](https://compileralchemy.substack.com/p/libsql-diving-into-a-database-engineering) by [Abdur-Rahmaan Janhangeer](https://www.compileralchemy.com/)
 - [Migrating Your MySQL Application from PlanetScale to Turso](https://medium.com/@kerbelp/migrating-your-mysql-application-from-planetscale-to-turso-483ae6175502) by [Pavel Kerbel](https://www.linkedin.com/in/kerbelp/)
+- [Use Turso with Drizzle ORM And Bun in Next.js](https://medium.com/@shenlu89/use-turso-with-drizzle-orm-and-bun-in-next-js-3851e6738050) by [Shen Lu](https://medium.com/@shenlu89)
 
 ## Videos
 
