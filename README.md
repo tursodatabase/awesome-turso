@@ -230,3 +230,4 @@ Tools by the community.
 - [DipSway Crypto Bot](https://www.dipsway.com/): Cloud hosted Crypto Trading Bot that uses model re-training every 24h for each coin.
 - [Condo Manager](https://github.com/yazalulloa/condo-manager): A condo manager web app (Websocket impl in Java).
 - [AI Collection](https://www.thataicollection.com/): A Collection of Awesome Generative AI Applications.
+- [Query.Domains](https://query.domains/): The Lightning-Fast Bulk Domain Availability Checker.
