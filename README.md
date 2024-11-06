@@ -64,6 +64,7 @@ Tools by the community.
 - [multi-tenancy-saas-demo](https://github.com/KyleAMathews/multi-tenancy-saas-demo): Demo of building a multi-tenancy saas app w/ Turso.
 - [Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate): Boilerplate and Starter for Next.js 14+ with App Router and Page Router support.
 - [libSQL StackBlitz demo](https://stackblitz.com/edit/node-zjhahv?file=index.js): libSQL running entirely on the browser using WebContainers.
+- [Freedom Stack](https://github.com/cameronapak/freedom-stack): A full-stack Astro boilerplate that feels freeing and is free.
 
 ## Articles
 
