@@ -213,6 +213,7 @@ Tools by the community.
 - [CutIt](https://cutit.vercel.app/): A free open-source tool to generate short links.
 - [Amazing Endemic Species](https://aes.shenlu.me): An open-source, community-driven SaaS (Species-as-a-Service) application.
 - [Undb](https://undb.io): An open-source, sqlite based nocode database platform & BaaS.
+- [bknd](https://bknd.io): Lightweight Firebase/Supabase alternative built to run anywhere
 
 <h3 id="apps-websites">Apps & Websites</h3>
 
