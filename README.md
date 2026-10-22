@@ -49,6 +49,7 @@ Tools by the community.
 - [dbpu](https://github.com/conneroisu/dbpu): Full Golang Client for Turso Platform API, including databases.
 - [PostgreSQL to SQLite3 DB Conversion](https://github.com/hirefrank/pg-to-sqlite): A bash script that migrates data from a PostgreSQL database into a SQLite3 database file, that can then be upload to turso.
 - [DBCode](https://dbcode.io): A Visual Studio Code extension for working with databases, including Turso and libSQL.
+- [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio): A cross-platform SQL editor and database GUI with support for Turso/libSQL, SQLite, Postgres, MySQL, and more.
 
 <h2 id="templates-starters">Templates & Starters</h2>
 
